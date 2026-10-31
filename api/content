@@ -750,11 +750,7 @@
     "year": "",
     "client": "",
     "coverPhoto": "/uploads/c5c7ea9b-bebc-46c7-a5fa-e4573231facf.png",
-    "images": [
-     "/uploads/motion-frame-2.jpg",
-     "/uploads/motion-frame-6.jpg",
-     "/uploads/motion-frame-10.jpg"
-    ],
+    "images": [],
     "title": "Motion Graphics",
     "caseStudy": {
      "deliverables": [
@@ -779,11 +775,7 @@
    {
     "coverImage": "/uploads/914665a0-57f9-41d8-aae8-c08e70ef8b47.png",
     "videoUrl": "/uploads/0fb647a0-d674-4da8-9069-f2f0d49e2ea7.mp4",
-    "images": [
-     "/uploads/914665a0-57f9-41d8-aae8-c08e70ef8b47.png",
-     "/uploads/motion-frame-2.jpg",
-     "/uploads/motion-frame-6.jpg"
-    ],
+    "images": [],
     "client": "",
     "id": "pulse-product-commercial",
     "year": "",

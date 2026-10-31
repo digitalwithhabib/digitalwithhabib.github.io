@@ -661,6 +661,85 @@
     "coverPhoto": ""
    },
    {
+    "id": "finance-saas-website",
+    "category": "UI/UX & App Dev",
+    "featured": false,
+    "caseStudy": {
+     "overview": "Banxware is a modern fintech SaaS platform designed to empower businesses with seamless financial solutions — a professional, intuitive website that helps businesses manage transactions with confidence.",
+     "challenge": "Finance products live on trust. The platform had to make payments and transactions feel secure and reliable at first glance, while keeping powerful financial tools simple enough for any business to use.",
+     "solution": "A clean, minimal UI built on a scalable SaaS design system: trust-driven visuals that signal security and reliability, clear global-payment stories tailored for growth, and layouts that keep every action easy to find.",
+     "deliverables": [
+      "Fintech SaaS website UI/UX",
+      "Scalable SaaS design system",
+      "Clean, minimal interface design",
+      "Trust-driven visual direction",
+      "Responsive layouts, designed in Figma"
+     ],
+     "results": [
+      "A professional face that builds confidence in the platform",
+      "One design system that scales as the product grows",
+      "Financial tools presented simply for business users"
+     ]
+    },
+    "description": "Banxware is a modern fintech SaaS platform designed to empower businesses with seamless financial solutions — a professional, intuitive and engaging website that balances aesthetics with functionality and helps businesses manage transactions with confidence.\n\nKey Features:\n\n• Clean and minimal UI for better usability\n\n• Scalable design system for SaaS platforms\n\n• Trust-driven visuals reflecting security and reliability\n\n• Global payment solutions tailored for growth",
+    "year": "",
+    "tag": "",
+    "coverImage": "/uploads/junaki-finance-1.jpg",
+    "title": "Finance SaaS Website",
+    "images": [
+     "/uploads/junaki-finance-1.jpg",
+     "/uploads/junaki-finance-2.jpg",
+     "/uploads/junaki-finance-3.jpg"
+    ],
+    "impactMetric": "",
+    "gradient": "from-teal-950 via-slate-900 to-black",
+    "client": "",
+    "videoUrl": "",
+    "secondaryVideoUrl": "",
+    "coverPhoto": ""
+   },
+   {
+    "id": "ecommerce-website",
+    "category": "UI/UX & App Dev",
+    "featured": false,
+    "caseStudy": {
+     "overview": "A modern and clean ecommerce website concept focused on a seamless shopping experience — product visibility, intuitive navigation and a streamlined purchasing journey in a minimal interface.",
+     "challenge": "Fashion shoppers leave the moment they cannot find or judge a product quickly. The store had to make a large clothing range feel easy to browse, with product pages detailed enough — sizes, colours, price, reviews — for a visitor to decide without hesitation.",
+     "solution": "Organised category listings (such as Male's Clothing with filters) lead into rich product pages — size and colour selection, ratings and a clear buy action — and a tidy cart with an order summary keeps checkout friction low. A minimal interface and a consistent design system hold the whole journey together.",
+     "deliverables": [
+      "Product listing pages",
+      "Product details page",
+      "Shopping cart & order summary",
+      "Clean & minimal UI",
+      "Responsive layout approach",
+      "Modern ecommerce design system"
+     ],
+     "results": [
+      "Products visible and easy to compare at a glance",
+      "A purchasing journey with as few steps as possible",
+      "One consistent design system across listing, product and cart pages"
+     ]
+    },
+    "description": "A modern and clean ecommerce website concept focused on creating a seamless shopping experience. The design emphasizes product visibility, intuitive navigation, and a streamlined purchasing journey. Featuring a minimal interface, organized product listings, and a detailed product page, this concept is crafted to enhance user engagement and drive conversions.\n\nKey Features:\n\n• Product Listing Page\n\n• Product Details Page\n\n• Clean & Minimal UI\n\n• Responsive Layout Approach\n\n• User-Centered Shopping Experience\n\n• Modern Ecommerce Design System",
+    "year": "",
+    "tag": "",
+    "coverImage": "/uploads/junaki-ecommerce-1.jpg",
+    "title": "Ecommerce Website",
+    "images": [
+     "/uploads/junaki-ecommerce-1.jpg",
+     "/uploads/junaki-ecommerce-2.jpg",
+     "/uploads/junaki-ecommerce-3.jpg",
+     "/uploads/junaki-ecommerce-4.jpg",
+     "/uploads/junaki-ecommerce-5.jpg"
+    ],
+    "impactMetric": "",
+    "gradient": "from-teal-950 via-slate-900 to-black",
+    "client": "",
+    "videoUrl": "",
+    "secondaryVideoUrl": "",
+    "coverPhoto": ""
+   },
+   {
     "gradient": "from-blue-950 via-slate-900 to-black",
     "tag": "",
     "description": "Brand films, logo animation and motion graphics that make people stop scrolling. Every project starts with the brand's story and ends with clean, high-energy animation — built for launches, social media and presentations, and rendered in crisp HD quality.",

@@ -740,6 +740,68 @@
     "coverPhoto": ""
    },
    {
+    "id": "dog-training-landing-page",
+    "title": "Dog Training Landing Page",
+    "category": "UI/UX & App Dev",
+    "description": "Pawly — a modern, friendly dog training landing page designed to help pet owners train their dogs with confidence and care, with clear booking calls-to-action and trust-building service sections.",
+    "coverImage": "/uploads/junaki-dogtraining-1.jpg",
+    "images": [
+     "/uploads/junaki-dogtraining-1.jpg",
+     "/uploads/junaki-dogtraining-2.jpg",
+     "/uploads/junaki-dogtraining-3.jpg"
+    ],
+    "year": "2025",
+    "caseStudy": {
+     "overview": "Pawly is a modern and friendly dog training landing page designed to help pet owners train their dogs with confidence and care. The design focuses on clear communication, trust, and easy navigation — created for professional dog trainers, pet academies, and online training services.",
+     "challenge": "Pet owners choose a trainer with their hearts as much as their heads: they are handing over a family member. The page had to feel warm and friendly while still looking professional enough to trust, and it had to turn that trust into bookings and consultations without making visitors hunt for the next step.",
+     "solution": "We designed a clean, modern interface in a friendly colour palette made for pet brands. Dedicated service sections present obedience, behaviour and puppy training in plain language, clear calls-to-action for bookings and consultations appear throughout the page, and a testimonial section builds trust with real pet-parent voices. The layout is fully responsive, and every element is arranged to create a strong emotional connection between trainers and pet parents while keeping the experience simple and effective.",
+     "deliverables": [
+      "Landing Page UI Design",
+      "Service Sections — Obedience, Behaviour & Puppy Training",
+      "Booking & Consultation CTA Flow",
+      "Testimonial Section",
+      "Responsive Layout"
+     ],
+     "results": [
+      "Training services communicated clearly at a glance",
+      "Clear booking and consultation paths throughout the page",
+      "Trust built through testimonials and a warm, friendly brand feel",
+      "A simple, effective experience on phone and desktop alike"
+     ]
+    }
+   },
+   {
+    "id": "flower-shop-website",
+    "title": "Flower Shop Website",
+    "category": "UI/UX & App Dev",
+    "description": "PeFlower — a modern, minimal flower shop website with a soft colour palette and clean typography, making it easy for customers to browse, choose and order their favourite blooms.",
+    "coverImage": "/uploads/junaki-flowershop-1.jpg",
+    "images": [
+     "/uploads/junaki-flowershop-1.jpg",
+     "/uploads/junaki-flowershop-2.jpg",
+     "/uploads/junaki-flowershop-3.jpg"
+    ],
+    "year": "2025",
+    "caseStudy": {
+     "overview": "PeFlower is a modern and minimal flower shop website design created to bring the beauty of flowers online. With a soft colour palette, clean typography, and a user-friendly layout, the design makes it easy for customers to browse, choose, and order their favourite blooms.",
+     "challenge": "Flowers sell on freshness and feeling — two things a screen cannot deliver directly. The website had to carry the elegance of a real flower shop online, present each arrangement beautifully, and still work as a practical shop where ordering takes moments, not effort.",
+     "solution": "From roses to lilies, every product section highlights the freshness and elegance of each flower. We designed smooth navigation, a featured collection area that gives seasonal arrangements a stage, and an easy checkout process — all wrapped in a soft palette and clean typography that keep the flowers themselves as the heroes of every page, creating a delightful shopping experience from first click to final order.",
+     "deliverables": [
+      "Website UI Design",
+      "Product & Collection Pages",
+      "Featured Collection Area",
+      "Checkout Experience Design",
+      "Responsive Layout"
+     ],
+     "results": [
+      "Browsing, choosing and ordering made effortless",
+      "Each flower presented with freshness and elegance",
+      "A featured collection area for seasonal arrangements",
+      "A smooth, delightful shopping experience end to end"
+     ]
+    }
+   },
+   {
     "gradient": "from-blue-950 via-slate-900 to-black",
     "tag": "",
     "description": "Brand films, logo animation and motion graphics that make people stop scrolling. Every project starts with the brand's story and ends with clean, high-energy animation — built for launches, social media and presentations, and rendered in crisp HD quality.",

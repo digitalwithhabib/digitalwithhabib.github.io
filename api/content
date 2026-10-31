@@ -1540,11 +1540,6 @@
      "id": "about",
      "label": "About",
      "num": "06"
-    },
-    {
-     "id": "contact",
-     "label": "Contact",
-     "num": "07"
     }
    ]
   },

@@ -1145,7 +1145,7 @@
     "accentColor": "#E60000",
     "category": "RIDE-HAILING, LOGISTICS",
     "name": "Pathao",
-    "logoUrl": "/uploads/5fa69d01-b945-409f-98ed-143e6ada30f1.png"
+    "logoUrl": "/uploads/5fa69d01-b945-409f-98ed-143e6ada30f1-nb.png"
    },
    {
     "id": "aarong",
@@ -1154,7 +1154,7 @@
     "region": "bangladeshi",
     "iconLetter": "A",
     "name": "Aarong",
-    "logoUrl": "/uploads/f8a0ec98-5239-4cad-b929-f2af9ee4d373.png"
+    "logoUrl": "/uploads/f8a0ec98-5239-4cad-b929-f2af9ee4d373-nb.png"
    },
    {
     "region": "bangladeshi",
@@ -1190,7 +1190,7 @@
     "iconLetter": "PR",
     "region": "bangladeshi",
     "name": "PRAN-RFL Group",
-    "logoUrl": "/uploads/4e205bd0-2d46-4578-9284-2f962a676a24.png"
+    "logoUrl": "/uploads/4e205bd0-2d46-4578-9284-2f962a676a24-nb.png"
    },
    {
     "category": "CONSUMER ELECTRONICS",
@@ -1208,7 +1208,7 @@
     "category": "FINTECH UNICORN",
     "iconLetter": "bK",
     "name": "bKash",
-    "logoUrl": "/uploads/7313d3ef-a038-45ec-a62d-fb1904a062a7.png"
+    "logoUrl": "/uploads/7313d3ef-a038-45ec-a62d-fb1904a062a7-nb.png"
    },
    {
     "category": "DIGITAL FINANCIAL SERVICES",
@@ -1217,7 +1217,7 @@
     "name": "Nagad",
     "accentColor": "#F7931E",
     "id": "nagad",
-    "logoUrl": "/uploads/5d92ff85-ba3b-4a9c-a926-3e667650bb97.png"
+    "logoUrl": "/uploads/5d92ff85-ba3b-4a9c-a926-3e667650bb97-nb.png"
    },
    {
     "accentColor": "#FF5722",
@@ -1226,7 +1226,7 @@
     "name": "Daraz",
     "region": "bangladeshi",
     "id": "daraz",
-    "logoUrl": "/uploads/4fe20a75-3bbd-4631-b713-409df7b94335.png"
+    "logoUrl": "/uploads/4fe20a75-3bbd-4631-b713-409df7b94335-nb.png"
    },
    {
     "iconLetter": "S",
@@ -1235,7 +1235,7 @@
     "accentColor": "#6C5CE7",
     "category": "EDTECH REVOLUTION",
     "id": "shikho",
-    "logoUrl": "/uploads/c51d151f-4851-4812-a9e6-9cfbf4bb66ef.png"
+    "logoUrl": "/uploads/c51d151f-4851-4812-a9e6-9cfbf4bb66ef-nb.png"
    },
    {
     "accentColor": "#000000",
@@ -1262,7 +1262,7 @@
     "category": "GLOBAL ECOMMERCE",
     "id": "shopify",
     "name": "Shopify",
-    "logoUrl": "/uploads/2b596e33-cb07-4f98-a826-335b171b447e.png"
+    "logoUrl": "/uploads/2b596e33-cb07-4f98-a826-335b171b447e-nb.png"
    },
    {
     "iconLetter": "ST",
@@ -1271,7 +1271,7 @@
     "name": "Stripe",
     "category": "FINANCIAL INFRASTRUCTURE",
     "region": "international",
-    "logoUrl": "/uploads/21fc15b2-244c-4043-afd7-3693f5f96ce0.png"
+    "logoUrl": "/uploads/21fc15b2-244c-4043-afd7-3693f5f96ce0-nb.png"
    },
    {
     "accentColor": "#4353FF",
@@ -1289,7 +1289,7 @@
     "id": "aws",
     "iconLetter": "AWS",
     "category": "ENTERPRISE CLOUD COMPUTING",
-    "logoUrl": "/uploads/2fda338a-e297-411a-8913-97bec57682b4.png"
+    "logoUrl": "/uploads/2fda338a-e297-411a-8913-97bec57682b4-nb.png"
    },
    {
     "category": "INBOUND MARKETING",

@@ -1163,7 +1163,7 @@
     "name": "Square Group",
     "category": "HEALTHCARE, PHARMA",
     "id": "square",
-    "logoUrl": "/uploads/8ec616ab-33e7-4ee4-b5f4-6370d4417c6a.jpg"
+    "logoUrl": "/uploads/8ec616ab-33e7-4ee4-b5f4-6370d4417c6a.png"
    },
    {
     "category": "ONLINE GROCERY TECH PIONEER",
@@ -1181,7 +1181,7 @@
     "accentColor": "#4A154B",
     "category": "B2B DIGITAL COMMERCE",
     "region": "bangladeshi",
-    "logoUrl": "/uploads/740dbe0b-daed-4087-86fd-64d378b3112b.jpg"
+    "logoUrl": "/uploads/740dbe0b-daed-4087-86fd-64d378b3112b.png"
    },
    {
     "category": "GLOBAL FOOD, AGRO",
@@ -1307,7 +1307,7 @@
     "name": "Figma",
     "accentColor": "#F24E1E",
     "region": "international",
-    "logoUrl": "/uploads/41cf7edb-b9ba-4f71-8e44-e326db9dcc87.jpg"
+    "logoUrl": "/uploads/41cf7edb-b9ba-4f71-8e44-e326db9dcc87.png"
    }
   ],
   "haloAvatars": [

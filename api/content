@@ -1660,18 +1660,18 @@
      "num": "03"
     },
     {
-     "id": "blog",
-     "label": "Blog",
-     "num": "04"
-    },
-    {
      "id": "team",
      "label": "Team",
-     "num": "05"
+     "num": "04"
     },
     {
      "id": "about",
      "label": "About",
+     "num": "05"
+    },
+    {
+     "id": "blog",
+     "label": "Blog",
      "num": "06"
     }
    ]
